@@ -1,5 +1,6 @@
 *Desafio opção 2 - template.
-Operações GET e POST, recebe dados e exibe.
+
+-Operações GET e POST, recebe dados e exibe.
 
 *Pré requisitos:
 -instalar python
